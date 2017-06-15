@@ -1,2 +1,2 @@
-# baharmand.ir
-My Personal Blog in Persian
+# Baharmand.ir
+My Persian Blog
