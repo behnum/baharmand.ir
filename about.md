@@ -10,4 +10,4 @@ permalink: /about/
 
 ### تماس
 
-من با شناسه [baharmand@](https://twitter.com/baharmand) و [behnumb@](https://twitter.com/behnumb) تویت می‌کنم و در تلگرام با شناسه [Behnum](https://t.me/Behnum) هستم. به این نشانی می تونید برام ایمیل بفرستید: [hello@baharmand.com](mailto: hello@baharmand.com)
+من با شناسه [baharmand@](https://twitter.com/baharmand) و [behnumb@](https://twitter.com/behnumb) تویت می‌کنم و در تلگرام با شناسه [Behnum](https://t.me/Behnum) هستم. به این نشانی می تونید به من ایمیل بفرستید: [hello@baharmand.com](mailto: hello@baharmand.com)
