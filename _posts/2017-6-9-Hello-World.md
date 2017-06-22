@@ -1,6 +1,6 @@
 ---
 layout: post
-title: دنیا سلام
+title: سلام دنیا
 category: شخصی
 ---
 
